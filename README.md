@@ -13,7 +13,7 @@
 - 🔭 Currently working on **LLM apps, Retrieval-Augmented Generation (RAG)**  
 - 🌱 Learning **advanced Deep Learning, optimization & model deployment**  
 - 💡 I enjoy experimenting with **Generative AI & Vision Transformers**  
-- 📫 Reach me: **yourmail@example.com**
+- 📫 Reach me: **danishzaman1786@gmail.com**
 
 ---
 
